@@ -77,6 +77,5 @@ Model performance is evaluated using:
 ---
 
 ## Notes
-- The workflow can be adapted to other stocks by changing the ticker symbol.  
-- Ensure the `Date` column exists in the dataset for visualization purposes.  
+- The workflow can be adapted to other stocks by changing the ticker symbol.    
 - This project focuses on **short-term predictions** and may not reflect long-term trends.
